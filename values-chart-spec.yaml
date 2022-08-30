@@ -1,0 +1,7 @@
+replicaCount: 3
+
+harness:
+  helm:
+    chart:
+      name: nginx
+      url: https://charts.bitnami.com/bitnami
